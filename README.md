@@ -10,6 +10,6 @@ We track the positions of trains in all the Lines inside Boston and in all direc
 
 ## Project Demo:
 
-[Watch Video Here](https://www.youtube.com/watch?v=DtY4qqCeVRI_
+[Watch Video Here](https://www.youtube.com/watch?v=DtY4qqCeVRI)
 
 *Note: Ignore the name Valar Morghulis. We decided to call our group that name. Think of it as our adolescence carelessness*
