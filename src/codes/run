@@ -1,3 +1,0 @@
-python get_lat.py & 
-python access_maps.py & 
-python irq.py &
